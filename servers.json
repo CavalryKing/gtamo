@@ -5,9 +5,10 @@
             "port": "3314"
         },
         {
-            "host": "play.uifserver.net",
-            "port": "7776"
+            "host": "play.lgsa-tm.com",
+            "port": "3314"
         }
     ]
 
 }
+

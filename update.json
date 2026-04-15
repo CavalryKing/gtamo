@@ -1,0 +1,9 @@
+{
+    "app_server_status": true,
+    "app_beta_status": false,
+    "game_version": "1.0.0",
+    "game_url": "https://alynsampmobile.pro/game/alyn_sampmobile.apk",
+    "samp_list_url": "https://alynsampmobile.pro/api/game-files-list?type=samp",
+    "full_list_url": "https://mobile.newgamersrp.com/mobile_newcache_manifest.json",
+    "lite_list_url": "https://mobile.newgamersrp.com/mobile_newcache_manifest.json"
+}
